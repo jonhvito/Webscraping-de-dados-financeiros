@@ -1,0 +1,18 @@
+Web scraping, ou raspagem de dados da web, é o processo de coleta de dados estruturados da web de maneira automatizada.
+
+Alguns dos principais casos de uso do web scraping incluem monitoramento de preços, inteligência de preços,
+monitoramento de notícias, geração de leads e pesquisa de mercado, entre muitos outros.
+
+O processo básico de raspagem é realizado diariamente por boa parte da população mundial,
+no ato de copiar e colar informações de um site para outro meio.
+
+A diferença é que a raspagem de rede faz isso em uma escala microscópica e com automação inteligente,
+para extrair milhões de dados de páginas da internet.
+
+A raspagem de rede é executada a partir do uso de duas ferramentas, o web crawler (rastreador de rede) e o web scraper
+(raspador de rede). O rastreador, popularmente chamado de “aranha”,
+é uma inteligência artificial que navega na internet procurando e indexando conteúdos.
+
+Depois disso, o raspador, que é uma ferramenta especializada, checa os conteúdos indexados pela “aranha”,
+extraindo dados com rapidez e precisão que estejam de acordo com os
+localizadores nas linguagens que eles foram implementados na página web, como CSS, regex, entre outros.
