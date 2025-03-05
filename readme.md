@@ -5,7 +5,7 @@
 
 Um sistema automatizado para análise de Fundos Imobiliários (FIIs) brasileiros utilizando técnicas de web scraping para coleta de dados e estratégias personalizadas de filtragem.
 
-![Exemplo de Saída](https://via.placeholder.com/600x200?text=Exemplo+de+Tabela+de+FIIs+Filtrados) <!-- Adicione uma imagem real posteriormente -->
+<!-- ![Exemplo de Saída](https://via.placeholder.com/600x200?text=Exemplo+de+Tabela+de+FIIs+Filtrados) -->    <!-- Adicione uma imagem real posteriormente -->
 
 ## 🌐 Contexto: O que é Web Scraping?
 Web scraping é a técnica de extração automatizada de dados estruturados da web. Neste projeto:
